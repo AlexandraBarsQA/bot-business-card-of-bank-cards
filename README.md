@@ -1,1 +1,1 @@
-# bot-business-card-of-bank-cards
+### Бот-визитка на Python для генерации номер банковских карт
